@@ -1,8 +1,9 @@
 # ICTG Landing Page
 A responsive landing page for the Living Faith Church ICT Group (ICTG), built for the ICTG Front-End Web Development assessment. It introduces the group, shows what it does, and gives visitors a way to get in touch.
 
-**Live site:** [add your GitHub Pages link here]
-**Source code:** [add your GitHub repository link here]
+**Live site:** https://oluwasemiloreee.github.io/ICTG/
+**Source code:** https://github.com/oluwasemiloreee/ICTG
+
 
 ## What is on the page
 - **Navigation bar:** sticky, with working anchor links and a collapsing mobile menu.
